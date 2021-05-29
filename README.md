@@ -1,4 +1,4 @@
-# RISCV-final version   July 2019 a freshman
+# RISCV-final version   July 2019 still a layman
 1. 综述：
 * 本项目为并行式五级流水RISCV指令集处理器，共经历了四次重构，本版为最终版本RISCV5。
 * 第一版为串行式五级流水，其中ID的相应功能被写入了EX中，直接在不同class中实现。
